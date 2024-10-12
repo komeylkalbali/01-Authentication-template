@@ -14,7 +14,7 @@
 
 <div align="center">
 <h3>اجرای پروژه</h3>
-<a href="https://komeylkalbali.github.io/01-Authentication-template/" >
+<a href="https://komeylkalbali.github.io/01-Authentication-template/index.html" >
   <image src="https://cdn-icons-png.flaticon.com/512/5361/5361007.png" width="90" height="90" color="red" alt="run"/>
 </a>
 </div>
